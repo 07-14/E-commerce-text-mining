@@ -4,21 +4,21 @@
 1. 客户介绍： 拜耳官方旗舰店(拜耳公司,总部位于德国的勒沃库森,在六大洲的200个地点建有750家生产厂;拥有120,000名员工及350家分支机构,几乎遍布世界各国.高分子,医药保健,化工以及农业是公司的四大支柱产业.公司的产品种类超过10000种)。  
 2. 客户需求：寻求市场增长点。  
 3. 产品架构：  
-![image](https://user-images.githubusercontent.com/43529683/133570584-1b6bb26c-9a9e-46f5-ab0e-23a111515a66.png)
+![image](https://user-images.githubusercontent.com/43529683/133570584-1b6bb26c-9a9e-46f5-ab0e-23a111515a66.png#pic_center)
 
 ##  数据说明
-![image](https://user-images.githubusercontent.com/43529683/133570630-665e098f-e442-4a80-92cf-f23f57d23b9d.png)
+![image](https://user-images.githubusercontent.com/43529683/133570630-665e098f-e442-4a80-92cf-f23f57d23b9d.png#pic_center)
 
 
 ## 分析流程概述
 电商产品数据分析流程：  
-![image](https://user-images.githubusercontent.com/43529683/133576885-c0140855-4e2c-4b94-bcb9-0c9d87ef36a5.png)
+![image](https://user-images.githubusercontent.com/43529683/133576885-c0140855-4e2c-4b94-bcb9-0c9d87ef36a5.png#pic_center)
 
 1. 每个环节都有具体的要求,例如需求文档要求包含:目的,分析思路,预期效果。  
 2. 业务部门出问题和需求,以及对算法&数据部门输出报告的理解和应用。  
 
 ## 中台介绍
-![image](https://user-images.githubusercontent.com/43529683/133576937-07495153-1402-434b-bd56-eadad602cf38.png)
+![image](https://user-images.githubusercontent.com/43529683/133576937-07495153-1402-434b-bd56-eadad602cf38.png#pic_center)
 
 ## 市场分类
 评判市场和品牌的发展趋势和增长情况，从宏观到微观，从大市场到细分市场：  
@@ -34,11 +34,11 @@
 例如：微信QQ是社交领域的霸主，陌陌探探在陌生人社交上也分了一杯羹，这些已存在的需求，没有被充分实现，也算增量市场。  
 
 ## 产品生命周期
-![image](https://user-images.githubusercontent.com/43529683/133577014-5ff3b9bf-ca5d-481b-b627-0869e93b948e.png)
+![image](https://user-images.githubusercontent.com/43529683/133577014-5ff3b9bf-ca5d-481b-b627-0869e93b948e.png#pic_center)
 
 #● 客户生命周期  
-![image](https://user-images.githubusercontent.com/43529683/133577060-ec44c321-11ee-4759-b707-6009fc38797a.png)
+![image](https://user-images.githubusercontent.com/43529683/133577060-ec44c321-11ee-4759-b707-6009fc38797a.png#pic_center)
 
 ## 产品结构-波士顿矩阵（BCG Matrix）
-![image](https://user-images.githubusercontent.com/43529683/133577097-db635bb3-fb8f-4e6f-83aa-01e01699ef9e.png)
+![image](https://user-images.githubusercontent.com/43529683/133577097-db635bb3-fb8f-4e6f-83aa-01e01699ef9e.png#pic_center)
 
