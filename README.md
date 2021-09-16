@@ -24,7 +24,7 @@
 # 产品生命周期
 ![image](https://user-images.githubusercontent.com/43529683/133577014-5ff3b9bf-ca5d-481b-b627-0869e93b948e.png)
 
-● 客户生命周期
+● 客户生命周期  
 ![image](https://user-images.githubusercontent.com/43529683/133577060-ec44c321-11ee-4759-b707-6009fc38797a.png)
 
 # 产品结构-波士顿矩阵（BCG Matrix）
